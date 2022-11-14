@@ -1,0 +1,12 @@
+npx create-react-app my-app --template typescript
+
+npm init react-ts-template
+
+npm init
+yarn install
+
+
+
+====================== for redux
+yarn add @reduxjs/toolkit
+yarn add react-redux

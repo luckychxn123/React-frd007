@@ -1,0 +1,14 @@
+main reducers:
+	slide.ts (src -> reduxFRD005 -> slice.ts)
+
+main store:
+	store.ts (src -> reduxFRD006 -> store.ts)
+
+-> Backend:
+	npm start
+-> F.E.
+	yarn start
+
+=> fetch EXPs
+	src -> components -> dashboard.tsx || login.tsx
+
